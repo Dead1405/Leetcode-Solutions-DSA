@@ -11,21 +11,25 @@
  */
 class Solution {
 public:
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root =new TreeNode(preorder[0]);
-        for(int i  =1; i<preorder.size();i++){
-            TreeNode* temp = root;
-            while(temp->val > preorder[i] && temp->left || temp->right){
-                if(temp->val > preorder[i]) temp = temp->left;
-                else temp = temp->right;
+    TreeNode* mkTree(vector<int>& preorder,int start,int end){
+        if(start>end) return NULL;
+        // if(start==end){
+        //     return TreeNode(preorder[start]);
+        else{
+            int leftStart = start+1;
+            int leftEnd=start;
+            while(leftEnd+1<=end && preorder[start]>preorder[leftEnd+1]){
+                leftEnd++;
             }
-            if(temp->val > preorder[i]){
-                temp->left = new TreeNode(preorder[i]);
-            }
-            else{
-                temp->right = new TreeNode(preorder[i]);
-            }
+            int rightStart = leftEnd+1;
+            int rightEnd = end;
+            TreeNode* root = new TreeNode(preorder[start]);
+            root->left = mkTree(preorder,leftStart,leftEnd);
+            root->right = mkTree(preorder,rightStart,rightEnd);
+            return root;
         }
-        return root;
+    }
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+       return mkTree(preorder,0,preorder.size()-1) ;
     }
 };
