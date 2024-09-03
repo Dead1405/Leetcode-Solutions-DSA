@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
