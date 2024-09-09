@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
 ## Design
 |  |
 | ------- |
@@ -144,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
