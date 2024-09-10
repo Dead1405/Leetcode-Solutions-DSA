@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0007-reverse-integer) |
 | [2155-find-missing-observations](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Union Find
