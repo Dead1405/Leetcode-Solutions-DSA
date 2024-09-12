@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0906-walking-robot-simulation](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0906-walking-robot-simulation) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0906-walking-robot-simulation](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0906-walking-robot-simulation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
