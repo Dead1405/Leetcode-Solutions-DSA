@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0906-walking-robot-simulation](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1039-find-the-town-judge) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
