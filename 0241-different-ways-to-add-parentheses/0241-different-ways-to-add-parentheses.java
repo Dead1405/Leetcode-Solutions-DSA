@@ -1,59 +1,49 @@
 class Solution {
-    public List<Integer> comboMaker(String exp, HashMap<String, List<Integer>> memo){
-        if(memo.containsKey(exp)) return memo.get(exp);
-        else{
-            List<Integer> combos = new ArrayList<Integer>();
-            for(int i = 0; i < exp.length(); i ++){
-                char ch = exp.charAt(i);
-                if( ch == '-' || ch == '+' || ch == '*'){
-                    String s1 = exp.substring(0,i);
-                    String s2 = exp.substring(i+1);
-                    List<Integer> l1 = diffWaysToCompute(s1);
-                    List<Integer> l2 = diffWaysToCompute(s2);
-                    for(int j : l1){
-                        for(int k : l2){
-                            if(ch == '-') combos.add(j - k);
-                            else if(ch == '+') combos.add(j + k);
-                            else if(ch == '*') combos.add(j * k);
-                        }
-                    }
-                }    
-            }
-            //if single number only left
-            if(combos.size() == 0) combos.add(Integer.parseInt(exp));
-            memo.put(exp, combos);
-            return combos;    
-            
-        }
+    List<Integer>[][] dp;
+    public List<Integer> diffWaysToCompute(String ep) {
+        dp = new ArrayList[ep.length()][ep.length()];
+        return fun(ep, 0, ep.length()-1);
     }
-    public List<Integer> diffWaysToCompute(String exp) {
-        // //first lets try it with simple backtracking
-        // List<Integer> combos = new ArrayList<Integer>();
-        // for(int i = 0; i < exp.length(); i ++){
-        //     char ch = exp.charAt(i);
-        //     if( ch == '-' || ch == '+' || ch == '*'){
-        //         String s1 = exp.substring(0,i);
-        //         String s2 = exp.substring(i+1);
-        //         List<Integer> l1 = diffWaysToCompute(s1);
-        //         List<Integer> l2 = diffWaysToCompute(s2);
-        //         for(int j : l1){
-        //             for(int k : l2){
-        //                 if(ch == '-') combos.add(j - k);
-        //                 else if(ch == '+') combos.add(j + k);
-        //                 else if(ch == '*') combos.add(j * k);
-        //             }
-        //         }
-        //     }
-        // }
-        // if(combos.size() == 0) combos.add(Integer.parseInt(exp));
-        // return combos;
-        
-
-        // now lets try memorization
-        // we will use a map of <String, List> to store the ans to diff computations
-        //first make a map for memorization
-        HashMap<String, List<Integer>> memo = new HashMap<>();
-        comboMaker(exp, memo);
-        return memo.get(exp);
+    private List<Integer> fun(String a, int start, int end) {
+        List<Integer> ret = new ArrayList<>();
+        if (dp[start][end] != null)
+        return dp[start][end];
+        int x = operand(a, start, end);
+        if (x != -1) {
+            ret.add(x);
+            dp[start][end] = ret;
+            return ret;
+        }
+        for (int i = start; i <= end; i ++ ){ 
+            if (!isOp(a.charAt(i)))
+            continue;
+            List<Integer> left = fun(a, start, i - 1);
+            List<Integer> right = fun(a, i + 1, end);
+            for (int j = 0 ;j < left.size(); j++) {
+                for (int k = 0 ; k < right.size(); k++) {
+                    if (a.charAt(i) == '*')
+                    ret.add(left.get(j)*right.get(k));
+                    if (a.charAt(i) == '+')
+                    ret.add(left.get(j)+right.get(k));
+                    if (a.charAt(i) == '-')
+                    ret.add(left.get(j)-right.get(k));
+                }
+            }
+        }
+        dp[start][end] = ret;
+        return ret;
+    }
+    private int operand(String a, int start, int end) {
+        for (int i = start; i <= end; i++) {
+            if (isOp(a.charAt(i)))
+            return -1;
+        }
+        int value = 0;
+        for (int i = start; i <= end; i++)
+        value = value * 10 + (a.charAt(i) - '0');
+        return value;
+    }
+    private boolean isOp(char c) {
+        return c == '*' || c == '-' || c == '+';
     }
 }
