@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1039-find-the-town-judge) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
