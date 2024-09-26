@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0539-minimum-time-difference](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 ## Iterator
 |  |
 | ------- |
@@ -244,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
