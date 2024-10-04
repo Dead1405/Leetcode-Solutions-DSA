@@ -1,15 +1,21 @@
 class Solution {
     public long dividePlayers(int[] skill) {
-        //sort then use 2 pointers if sum of those two pointers != prev return -1 
-        Arrays.sort(skill);
-        int start = 0, end = skill.length - 1;
+        //store counts in hashtable get max and min then run the loop for half the length
         long chem = 0;
-        int skilled = skill[skill.length - 1] + skill[0];
-        while(start < end){
-            if(skill[start] +skill[end] != skilled) return -1;
-            chem += skill[start] * skill[end];
-            start++;
-            end--;
+        int max = Integer.MIN_VALUE, min = Integer.MAX_VALUE;
+        int[] count = new int[1001];
+        for(int i : skill){
+            if(i > max) max = i;
+            if(i < min) min = i;
+            //store count in map
+            count[i] += 1;
+        }
+        for(int i = 0; i < skill.length ; i++){
+            if(count[skill[i]] < 1) continue;
+            if(count[max + min - skill[i]] < 1) return -1;
+            chem += (max + min - skill[i]) * skill[i];
+            count[skill[i]]--;
+            count[max + min - skill[i]]--;
         }
         return chem;
     }
