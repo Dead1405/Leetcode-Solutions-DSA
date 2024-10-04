@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Stack
 |  |
@@ -141,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1039-find-the-town-judge) |
 | [1694-make-sum-divisible-by-p](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0539-minimum-time-difference) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Topological Sort
 |  |
 | ------- |
