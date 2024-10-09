@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0859-design-circular-deque) |
 ## Iterator
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
