@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
