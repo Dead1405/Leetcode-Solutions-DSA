@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0732-my-calendar-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0732-my-calendar-iii) |
 | [0859-design-circular-deque](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0859-design-circular-deque) |
 ## Iterator
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0732-my-calendar-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -302,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0732-my-calendar-iii) |
 ## Sliding Window
 |  |
 | ------- |
