@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Union Find
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
