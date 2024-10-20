@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1197-parsing-a-boolean-expression](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1923-sentence-similarity-iii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
