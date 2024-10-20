@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1197-parsing-a-boolean-expression](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1923-sentence-similarity-iii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
