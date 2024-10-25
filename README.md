@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1923-sentence-similarity-iii](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/1923-sentence-similarity-iii) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/Dead1405/Leetcode-Solutions-DSA/tree/master/0539-minimum-time-difference) |
